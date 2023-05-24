@@ -3,5 +3,5 @@ A Feedback app with a rating system is a web or mobile application that allows u
 
 ## Website Deploy Link : https://delicate-sfogliatella-bacef0.netlify.app/
 
-#for run
-##npm start
+# for run
+## npm start
